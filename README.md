@@ -2,6 +2,8 @@
 ## This is a Video Downloader for The PBS Kids Video Website. (US Only)
 ### Requires ffmpeg and a Windows PC for this to work.
 
+Current Version: 1.0
+
 # Tutorial:
 ### 1. Download The Batch File
 ### 2. type in the show ID you would like to download (example: city-island)
