@@ -29,13 +29,13 @@ set /p video=Enter The URL of The Video You Would Like To Download:
 set /p filename=Enter Enter The File Name (do not put.mp4): 
 
 echo Downloading video...
-ffmpeg -i "%video%" -vcodec copy -acodec copy "%filename%.mp4"
+ffmpeg -i "%video%" -vcodec copy -acodec copy "%userprofile%\Videos\%filename%.mp4"
 
 @ECHO off
 cls
 color a
 :end
-ECHO Video has been downloaded. Do You Want To Continue Downloading More?
+ECHO Video has been downloaded. It has been Saved To Your "Videos" Folder. Do You Want To Continue Downloading More?
 set choice=
 set /p choice=Choice: 
 if not '%choice%'=='' set choice=%choice:~0,1%
