@@ -5,7 +5,7 @@
 Current Version: 1.0
 
 # Tutorial:
-### 1. Download The Batch File
+### 1. Go To The Releases Page and Download The .bat File or the .exe file
 ### 2. type in the show ID you would like to download (example: city-island)
 
 the link should be like this: https://content.services.pbskids.org/v2/kidspbsorg/programs/show-id/
