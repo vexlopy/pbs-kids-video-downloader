@@ -9,7 +9,6 @@ Current Version: 1.0
 ### 2. type in the show ID you would like to download (example: city-island)
 
 the link should be like this: https://content.services.pbskids.org/v2/kidspbsorg/programs/show-id/
-and not this: https://content.services.pbs.org/v2/kidspbsorg/programs/show-id/ (this has a username and password on it)
 
 if you would have typed in the wrong id it would look like this: {"errorCode":404001,"errorMessage":"Page not found!"}
 
